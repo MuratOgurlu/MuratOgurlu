@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python and Deep Learning**
 
-- 📫 How to reach me **mehmeteminogurlu01@gmail.com**
+- 📫 How to reach me **murat.ourlu01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
