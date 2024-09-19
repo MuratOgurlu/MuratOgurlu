@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Murat Oğurlu</h1>
 <h3 align="center">Junior Python Developer / Junior AI-ML Developer</h3>
 
+<h1>💫 About Me:</h1>
+Hello, I belong to the fourth year of software engineering students, and my interest areas are computer vision and deep learning. I am focusing on programming and data analysis tools to deepen a set of techniques that use ML and deep learning after acquiring a vital knowledge base. Recently, I worked quite well at recognition, treatment of graphical images and meticulous refinement of model performance. I will also explore MLOps so as to optimize the deployment and scalability of ML models. My career goal is to focus on continual learning, put what I know into real-world projects, and follow the latest trends in data science and computer vision closely.
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratogurlu&label=Profile%20views&color=0e75b6&style=flat" alt="muratogurlu" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muratogurlu" alt="muratogurlu" /></a> </p>
